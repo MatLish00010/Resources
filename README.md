@@ -51,6 +51,10 @@ Learning resources to develop skills across the frontend and related areas. PR's
 
 [Learn how the Internet works - Ben Eater](https://eater.net/inet)
 
+[Как устроен интернет 🇷🇺](https://www.youtube.com/watch?v=tRijLaXxSwU&t=1482s)
+
+[TCP/IP 🇷🇺](https://www.youtube.com/watch?v=EJzitviiv2c)
+
 ## System design
 [Complete system design course](https://www.educative.io/path/scalability-system-design)
 
@@ -163,6 +167,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 [What happens when](https://github.com/alex/what-happens-when)
 
 [Web Browser Engineering - Pavel Panchekha & Chris Harrelson](https://browser.engineering/)
+
+[Browser 🇷🇺](https://www.youtube.com/watch?v=EAqrn9debZ0)
 
 ### Perfomance
 [Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
