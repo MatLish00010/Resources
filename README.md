@@ -58,6 +58,8 @@ Learning resources to develop skills across the frontend and related areas. PR's
 ## System design
 [Complete system design course](https://www.educative.io/path/scalability-system-design)
 
+[Vladimir Ivanov](https://vvsevolodovich.dev/business-oriented-system-design-course/)
+
 [SDLC Tutorial](https://www.tutorialspoint.com/sdlc/index.htm)
 
 [The System Design Primer](https://github.com/donnemartin/system-design-primer)
